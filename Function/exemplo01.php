@@ -1,12 +1,12 @@
 <?php
 
-function ola($texto){
+function ola(){
 
-  return "ola $texto ! <br>";
+  return "ola Mundo! <br>";
 }
 
-echo ola("Mundo");
-echo ola("Glaucio");
-echo ola("João");
+echo ola();
+$frase =  ola();
+echo strlen($frase) . "<br>";
 
  ?>

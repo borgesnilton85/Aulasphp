@@ -1,11 +1,9 @@
 <?php
-function ola(){
 
-  $argumentos = func_get_args();
-
-  return $argumentos ;
+function salario(){
+    return 946.00;
 }
 
-var_dump(ola("bom dia",10));
+echo "José recebeu 3 salários: " . (salario()*3); 
 
- ?>
+?>
