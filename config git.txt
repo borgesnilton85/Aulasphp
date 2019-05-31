@@ -1,0 +1,171 @@
+Microsoft Windows [versão 6.3.9600]
+(c) 2013 Microsoft Corporation. Todos os direitos reservados.
+
+C:\Users\niltonbc>C:\xampp\htdocs\Aulasphp
+'C:\xampp\htdocs\Aulasphp' não é reconhecido como um comando interno
+ou externo, um programa operável ou um arquivo em lotes.
+
+C:\Users\niltonbc>cd C:\xampp\htdocs\Aulasphp
+
+C:\xampp\htdocs\Aulasphp>git add --all
+
+C:\xampp\htdocs\Aulasphp>git commit -m "alteraçao"
+[master 838bdec] alteraçao
+ 128 files changed, 2806 insertions(+), 11 deletions(-)
+ create mode 100644 Constants/exemplo01.php
+ create mode 100644 Constants/exemplo02.php
+ create mode 100644 Constants/exemplo03.php
+ create mode 100644 DIR/bkp/html5.png
+ create mode 100644 DIR/bkp/mysql.png
+ create mode 100644 DIR/bkp/php7.png
+ create mode 100644 DIR/exemplo01.php
+ create mode 100644 DIR/exemplo02.php
+ create mode 100644 DIR/images/html5.png
+ create mode 100644 DIR/images/mysql.png
+ create mode 100644 DIR/images/php7.png
+ create mode 100644 Function/exemplo03.php
+ create mode 100644 Function/exemplo04.php
+ create mode 100644 Function/exemplo05.php
+ create mode 100644 Function/exemplo06.php
+ create mode 100644 Function/exemplo07.php
+ create mode 100644 Function/exemplo08.php
+ create mode 100644 Function/exemplo09.php
+ create mode 100644 Function/exemplo10.php
+ create mode 100644 Function/exemplo11.php
+ create mode 100644 JSON/exemplo01.php
+ create mode 100644 JSON/exemplo02.php
+ create mode 100644 MYSQL/tb_usuarios.sql
+ create mode 100644 POO/encapsulamento/exemplo01.php
+ create mode 100644 POO/encapsulamento/exemplo02.php
+ create mode 100644 POO/exemplo01.php
+ create mode 100644 POO/exemplo02.php
+ create mode 100644 POO/exemplo03.php
+ create mode 100644 POO/exemplo04.php
+ create mode 100644 POO/validacao-cpf.zip
+ create mode 100644 SQL-SERVER/Nota.txt
+ create mode 100644 SQL-SERVER/SQLQuery1.sql
+ create mode 100644 Strings/exemplo01.php
+ create mode 100644 Strings/exemplo02.php
+ create mode 100644 Strings/exemplo03.php
+ create mode 100644 Strings/exemplo04.php
+ create mode 100644 Variavel/exemplo05.php
+ create mode 100644 abstract/exemplo01.php
+ create mode 100644 array/exemplo01.php
+ create mode 100644 array/exemplo02.php
+ create mode 100644 array/exemplo03.php
+ create mode 100644 autoload/Abstratas/Automovel.php
+ create mode 100644 autoload/DelRey.php
+ create mode 100644 autoload/Nota.txt
+ create mode 100644 autoload/exemplo01.php
+ create mode 100644 autoload/exemplo02.php
+ create mode 100644 cookie/exemplo01.php
+ create mode 100644 cookie/exemplo02.php
+ create mode 100644 curl/exemplo01.php
+ create mode 100644 dao/class/Sql.php
+ create mode 100644 dao/class/Usuario.php
+ create mode 100644 dao/config.php
+ create mode 100644 dao/index.php
+ create mode 100644 date/exemplo01.php
+ create mode 100644 date/exemplo02.php
+ create mode 100644 date/exemplo03.php
+ create mode 100644 date/exemplo04.php
+ create mode 100644 date/exemplo05.php
+ create mode 100644 download/exemplo01.php
+ create mode 100644 download/google.png
+ create mode 100644 download/googlelogo_color_272x92dp.png
+ create mode 100644 error/exemplo01.php
+ create mode 100644 error/exemplo02.php
+ create mode 100644 fgets/exemplo01.php
+ create mode 100644 fgets/exemplo02.php
+ create mode 100644 fgets/logo.png
+ create mode 100644 fgets/usuarios.csv
+ create mode 100644 fopen/class/Sql.php
+ create mode 100644 fopen/class/Usuario.php
+ create mode 100644 fopen/config.php
+ create mode 100644 fopen/exemplo01.php
+ create mode 100644 fopen/exemplo02.php
+ create mode 100644 fopen/log.txt
+ create mode 100644 fopen/usuarios.csv
+ create mode 100644 for/exemplo01.php
+ create mode 100644 for/exemplo02.php
+ create mode 100644 foreach/exemplo01.php
+ create mode 100644 foreach/exemplo02.php
+ create mode 100644 heranca/exemplo03.php
+ create mode 100644 if/exemlpo01.php
+ create mode 100644 include/exemplo01.php
+ create mode 100644 include/exemplo02.php
+ create mode 100644 include/inc/exemplo01.php
+ create mode 100644 interface/exemplo.php
+ create mode 100644 msqli/exemplo01.php
+ create mode 100644 msqli/exemplo02.php
+ create mode 100644 namespace/Class/Cadastro.php
+ create mode 100644 namespace/Class/Cliente/Cadastro.php
+ create mode 100644 namespace/Nota.txt
+ create mode 100644 namespace/config.php
+ create mode 100644 namespace/index.php
+ create mode 100644 operadores/exemplo01.php
+ create mode 100644 operadores/exemplo02.php
+ create mode 100644 operadores/exemplo03.php
+ create mode 100644 operadores/exemplo04.php
+ create mode 100644 operadores/exemplo05.php
+ create mode 100644 operadores/exemplo06.php
+ create mode 100644 operadores/exemplo07.php
+ create mode 100644 operadores/exemplo08.php
+ create mode 100644 pdo/exemplo01.php
+ create mode 100644 pdo/exemplo02.php
+ create mode 100644 pdo/exemplo03.php
+ create mode 100644 pdo/exemplo04.php
+ create mode 100644 pdo/exemplo05.php
+ create mode 100644 pdo/exemplo06.php
+ create mode 100644 phpinfo.php
+ create mode 100644 polimorfismo/exemplo01.php
+ create mode 100644 rename/exemplo01.php
+ create mode 100644 rename/folder_02/README.txt
+ create mode 100644 session/config.php
+ create mode 100644 session/exemplo01.php
+ create mode 100644 session/exemplo02.php
+ create mode 100644 session/exemplo03.php
+ create mode 100644 session/exemplo04.php
+ create mode 100644 session/exemplo05.php
+ create mode 100644 switch/exemplo01.php
+ create mode 100644 try/exemplo01.php
+ create mode 100644 try/exemplo02.php
+ create mode 100644 unlink/exemplo01.php
+ create mode 100644 unlink/exemplo02.php
+ create mode 100644 unlink/html5.png
+ create mode 100644 unlink/mysql.png
+ create mode 100644 unlink/php7.png
+ create mode 100644 upload/exemplo01.php
+ create mode 100644 while/exemplo01.php
+ create mode 100644 while/exemplo02.php
+
+Warning: Your console font probably doesn't support Unicode. If you experience strange characters in the output, consider switching to a TrueType font such as Consolas!
+
+C:\xampp\htdocs\Aulasphp>git puch origin master
+git: 'puch' is not a git command. See 'git --help'.
+
+The most similar command is
+        push
+
+C:\xampp\htdocs\Aulasphp>git remote add origin https://github.com/borgesnilton85/Aulasphp.git
+fatal: remote origin already exists.
+
+C:\xampp\htdocs\Aulasphp>git config --global user.name "Nilton"
+
+C:\xampp\htdocs\Aulasphp>git config --global user.email "borgesnilton85@gmail.com"
+
+C:\xampp\htdocs\Aulasphp>git config push origin master
+error: key does not contain a section: push
+
+C:\xampp\htdocs\Aulasphp>git push origin master
+Enumerating objects: 168, done.
+Counting objects: 100% (168/168), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (147/147), done.
+Writing objects: 100% (163/163), 368.18 KiB | 10.23 MiB/s, done.
+Total 163 (delta 5), reused 0 (delta 0)
+remote: Resolving deltas: 100% (5/5), completed with 1 local object.
+To https://github.com/borgesnilton85/Aulasphp.git
+   edcfc4f..838bdec  master -> master
+
+C:\xampp\htdocs\Aulasphp>
