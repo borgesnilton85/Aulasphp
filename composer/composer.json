@@ -1,0 +1,8 @@
+{
+    "name": "hcodebr/composer",
+    "description": "Aula PHP 7",
+    "type": "project",
+    "require": {
+        "monolog/monolog" : "1.0.*"
+    }
+}

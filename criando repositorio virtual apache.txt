@@ -1,0 +1,28 @@
+criando repositorio virtual local .com.br
+
+abra o arquivo httpd-vhosts.conf
+localizado em : C:\xampp\apache\conf\extra\httpd-vhosts.conf
+
+e no arquivo tem exemplo de como fazer no caso feito a pasta website
+
+depois de configurar com o exemplo
+
+<VirtualHost *:80>
+    ServerAdmin webmaster@dummy-host2.example.com
+    DocumentRoot "C:/xampp/htdocs/Aulasphp/website"
+    ServerName local.cursophp7.com.br
+    ErrorLog "logs/dummy-host2.example.com-error.log"
+    CustomLog "logs/dummy-host2.example.com-access.log" common
+	<Directory "C:/xampp/htdocs/Aulasphp/website">
+		Order allow,deny
+		Allow from all
+		Require all granted
+		</Directory>
+</VirtualHost>
+
+altere o hosts do windows por exemplo 
+em 
+C:\Windows\System32\drivers\etc\hosts
+inserido a linha como exemplo
+127.0.0.1		local.cursophp7.com.br
+

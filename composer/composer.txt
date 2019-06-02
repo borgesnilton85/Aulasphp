@@ -1,0 +1,1 @@
+arquivo de configuração onde mostra quais biblioteca e versao do seu projeto

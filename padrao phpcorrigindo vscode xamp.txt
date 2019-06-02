@@ -1,0 +1,28 @@
+site padrao php
+
+https://www.php-fig.org/
+
+
+
+corrigindo erro php no vs code e xampp
+copiar caminho abaixo (execução do php no xampp)
+
+"php.validate.executablePath" : "C:\\xampp\\php\\php.exe",
+
+no vs code
+ctlr + shift +p
+
+preferences open settings (JSON)
+
+------------------
+
+xdebug vs code
+
+copiar dados do phpinfo()
+
+acessar site xdebug 
+depois va em dowload custom installation instructions.
+
+efetuar download da dll
+
+colocar a dll em c:\xampp\php\ext
